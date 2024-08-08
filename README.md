@@ -1,4 +1,4 @@
-# Mastering the Basics: HTML, CSS, and JavaScript Tutorial Codes Part I
+# Mastering the Basics: HTML, CSS, and JavaScript Tutorial Codes Part II
 
 Welcome to the repository for **Mastering the Basics: HTML, CSS, and JavaScript**. This collection includes the sample code from the book *Sams Teach Yourself HTML, CSS, & JavaScript All-in-One* (all editions). Whether you're new to web development or brushing up on your skills, these chapters offer a solid foundation in building modern, standards-compliant websites.
 
